@@ -1,0 +1,6 @@
+{
+  "name": "StorePilot",
+  "description": "Build your online store. Grow your business. Modern, responsive, international multi-tenant SaaS e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
